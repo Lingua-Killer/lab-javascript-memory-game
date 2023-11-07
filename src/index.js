@@ -118,7 +118,7 @@ window.addEventListener("load", (event) => {
           if (isFinished) {
             document.querySelector(
               "#memory-board"
-            ).innerHTML = `<h1>Has ganado y tu puntacion es: ${memoryGame.pairsGuessed}</h1>`;
+            ).innerHTML = `<h1>Lucas has ganado y papa te quiere muchisimo tu puntuacion  es: ${memoryGame.pairsGuessed}</h1>`;
           }
         } else {
           setTimeout(() => {
